@@ -15,7 +15,7 @@ void MyClass1::DoDiv(double input1, double input2)
 	}
 	else
 	{
-		double temp:
+		double temp;
 		temp = (input1 / input2);
 		result = temp;
 		cout << result << endl;
